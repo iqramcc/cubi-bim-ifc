@@ -1,0 +1,181 @@
+{
+  "outdoor": {
+    "IfcEntity": "IfcSpace",
+    "Name": "OUTDOOR",
+    "PredefinedType": null,
+    "ObjectType": "OUTDOOR",
+    "Psets": {
+      "Pset_SpaceCommon": {
+        "OccupancyType": "OUTDOOR"
+      }
+    }
+  },
+  "wall": {
+    "IfcEntity": "IfcWall",
+    "Name": "WALL",
+    "PredefinedType": "SOLIDWALL",
+    "ObjectType": null,
+    "Psets": {}
+  },
+  "kitchen": {
+    "IfcEntity": "IfcSpace",
+    "Name": "KITCHEN",
+    "PredefinedType": null,
+    "ObjectType": "KITCHEN",
+    "Psets": {
+      "Pset_SpaceCommon": {
+        "OccupancyType": "KITCHEN"
+      }
+    }
+  },
+  "livingroom": {
+    "IfcEntity": "IfcSpace",
+    "Name": "LIVING",
+    "PredefinedType": null,
+    "ObjectType": "LIVING",
+    "Psets": {
+      "Pset_SpaceCommon": {
+        "OccupancyType": "LIVING"
+      }
+    }
+  },
+  "bedroom": {
+    "IfcEntity": "IfcSpace",
+    "Name": "BEDROOM",
+    "PredefinedType": null,
+    "ObjectType": "BEDROOM",
+    "Psets": {
+      "Pset_SpaceCommon": {
+        "OccupancyType": "SLEEPING"
+      }
+    }
+  },
+  "bath": {
+    "IfcEntity": "IfcSpace",
+    "Name": "BATH",
+    "PredefinedType": null,
+    "ObjectType": "BATH",
+    "Psets": {
+      "Pset_SpaceCommon": {
+        "OccupancyType": "SANITARY"
+      }
+    }
+  },
+  "entry": {
+    "IfcEntity": "IfcSpace",
+    "Name": "ENTRY",
+    "PredefinedType": null,
+    "ObjectType": "ENTRY",
+    "Psets": {
+      "Pset_SpaceCommon": {
+        "OccupancyType": "CIRCULATION"
+      }
+    }
+  },
+  "railing": {
+    "IfcEntity": "IfcRailing",
+    "Name": "RAILING",
+    "PredefinedType": "HANDRAIL",
+    "ObjectType": null,
+    "Psets": {}
+  },
+  "storage": {
+    "IfcEntity": "IfcSpace",
+    "Name": "STORAGE",
+    "PredefinedType": null,
+    "ObjectType": "STORAGE",
+    "Psets": {
+      "Pset_SpaceCommon": {
+        "OccupancyType": "STORAGE"
+      }
+    }
+  },
+  "garage": {
+    "IfcEntity": "IfcSpace",
+    "Name": "GARAGE",
+    "PredefinedType": null,
+    "ObjectType": "GARAGE",
+    "Psets": {
+      "Pset_SpaceCommon": {
+        "OccupancyType": "PARKING"
+      }
+    }
+  },
+  "room": {
+    "IfcEntity": "IfcSpace",
+    "Name": "ROOM",
+    "PredefinedType": null,
+    "ObjectType": "ROOM",
+    "Psets": {}
+  },
+  "window": {
+    "IfcEntity": "IfcWindow",
+    "Name": "WINDOW",
+    "PredefinedType": null,
+    "ObjectType": null,
+    "Psets": {}
+  },
+  "door": {
+    "IfcEntity": "IfcDoor",
+    "Name": "DOOR",
+    "PredefinedType": null,
+    "ObjectType": null,
+    "Psets": {}
+  },
+  "closet": {
+    "IfcEntity": "IfcFurniture",
+    "Name": "CLOSET",
+    "PredefinedType": null,
+    "ObjectType": "STORAGE",
+    "Psets": {}
+  },
+  "appliance": {
+    "IfcEntity": "IfcElectricAppliance",
+    "Name": "APPLIANCE",
+    "PredefinedType": "USERDEFINED",
+    "ObjectType": "APPLIANCE",
+    "Psets": {}
+  },
+  "toilet": {
+    "IfcEntity": "IfcSanitaryTerminal",
+    "Name": "TOILET",
+    "PredefinedType": "TOILETPAN",
+    "ObjectType": "TOILET",
+    "Psets": {}
+  },
+  "sink": {
+    "IfcEntity": "IfcSanitaryTerminal",
+    "Name": "SINK",
+    "PredefinedType": "SINK",
+    "ObjectType": "SINK",
+    "Psets": {}
+  },
+  "saunabench": {
+    "IfcEntity": "IfcFurniture",
+    "Name": "SAUNA_BENCH",
+    "PredefinedType": "SEATING",
+    "ObjectType": "SEATING",
+    "Psets": {}
+  },
+  "fireplace": {
+    "IfcEntity": "IfcFireplace",
+    "Name": "FIREPLACE",
+    "PredefinedType": "USERDEFINED",
+    "ObjectType": "FIREPLACE",
+    "Psets": {}
+  },
+  "bathtub": {
+    "IfcEntity": "IfcSanitaryTerminal",
+    "Name": "BATHTUB",
+    "PredefinedType": "BATHTUB",
+    "ObjectType": "BATHTUB",
+    "Psets": {}
+  },
+  "chimney": {
+    "IfcEntity": "IfcChimney",
+    "Name": "CHIMNEY",
+    "PredefinedType": "USERDEFINED",
+    "ObjectType": "CHIMNEY",
+    "Psets": {}
+  }
+}

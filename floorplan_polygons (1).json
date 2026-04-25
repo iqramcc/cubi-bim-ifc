@@ -1,0 +1,306 @@
+{
+  "elements": [
+    {
+      "id": 0,
+      "vertices": [
+        [
+          447,
+          41
+        ],
+        [
+          453,
+          41
+        ],
+        [
+          453,
+          163
+        ],
+        [
+          447,
+          163
+        ]
+      ],
+      "type": "wall",
+      "class": 2,
+      "label": "Wall",
+      "color": "#C0392B",
+      "opacity": 0.35,
+      "strokeWidth": 1.5,
+      "visible": true
+    },
+    {
+      "id": 1,
+      "vertices": [
+        [
+          200,
+          37
+        ],
+        [
+          453,
+          37
+        ],
+        [
+          453,
+          41
+        ],
+        [
+          200,
+          41
+        ]
+      ],
+      "type": "wall",
+      "class": 2,
+      "label": "Wall",
+      "color": "#C0392B",
+      "opacity": 0.35,
+      "strokeWidth": 1.5,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "vertices": [
+        [
+          371,
+          100
+        ],
+        [
+          391,
+          100
+        ],
+        [
+          391,
+          104
+        ],
+        [
+          371,
+          104
+        ]
+      ],
+      "type": "wall",
+      "class": 2,
+      "label": "Wall",
+      "color": "#C0392B",
+      "opacity": 0.35,
+      "strokeWidth": 1.5,
+      "visible": true
+    },
+    {
+      "id": 3,
+      "vertices": [
+        [
+          84,
+          37
+        ],
+        [
+          200,
+          37
+        ],
+        [
+          200,
+          41
+        ],
+        [
+          84,
+          41
+        ]
+      ],
+      "type": "wall",
+      "class": 2,
+      "label": "Wall",
+      "color": "#C0392B",
+      "opacity": 0.35,
+      "strokeWidth": 1.5,
+      "visible": true
+    },
+    {
+      "id": 4,
+      "vertices": [
+        [
+          447,
+          59
+        ],
+        [
+          453,
+          59
+        ],
+        [
+          453,
+          84
+        ],
+        [
+          447,
+          84
+        ]
+      ],
+      "type": "icon",
+      "class": 1,
+      "label": "Window",
+      "color": "#4169E1",
+      "opacity": 0.35,
+      "strokeWidth": 1.5,
+      "visible": true
+    }
+  ],
+  "rooms": [
+    {
+      "id": 5,
+      "vertices": [
+        [
+          84,
+          39
+        ],
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          102
+        ],
+        [
+          0,
+          163
+        ],
+        [
+          84,
+          163
+        ],
+        [
+          84,
+          102
+        ]
+      ],
+      "type": "room",
+      "class": 1,
+      "label": "Outdoor",
+      "color": "#90EE90",
+      "opacity": 0.2,
+      "strokeWidth": 1,
+      "visible": true
+    },
+    {
+      "id": 6,
+      "vertices": [
+        [
+          200,
+          39
+        ],
+        [
+          84,
+          39
+        ],
+        [
+          84,
+          102
+        ],
+        [
+          84,
+          163
+        ],
+        [
+          200,
+          163
+        ],
+        [
+          200,
+          102
+        ]
+      ],
+      "type": "room",
+      "class": 4,
+      "label": "Living Room",
+      "color": "#87CEEB",
+      "opacity": 0.2,
+      "strokeWidth": 1,
+      "visible": true
+    },
+    {
+      "id": 7,
+      "vertices": [
+        [
+          371,
+          102
+        ],
+        [
+          371,
+          163
+        ],
+        [
+          391,
+          163
+        ],
+        [
+          450,
+          163
+        ],
+        [
+          450,
+          102
+        ],
+        [
+          391,
+          102
+        ]
+      ],
+      "type": "room",
+      "class": 5,
+      "label": "Bedroom",
+      "color": "#DDA0DD",
+      "opacity": 0.2,
+      "strokeWidth": 1,
+      "visible": true
+    },
+    {
+      "id": 8,
+      "vertices": [
+        [
+          200,
+          102
+        ],
+        [
+          200,
+          163
+        ],
+        [
+          371,
+          163
+        ],
+        [
+          371,
+          102
+        ],
+        [
+          391,
+          102
+        ],
+        [
+          450,
+          102
+        ],
+        [
+          450,
+          39
+        ],
+        [
+          391,
+          39
+        ],
+        [
+          371,
+          39
+        ],
+        [
+          200,
+          39
+        ]
+      ],
+      "type": "room",
+      "class": 11,
+      "label": "Undefined",
+      "color": "#A9A9A9",
+      "opacity": 0.2,
+      "strokeWidth": 1,
+      "visible": true
+    }
+  ]
+}

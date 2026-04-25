@@ -1,0 +1,24 @@
+Index,Label,IFC Entity,Name Attribute,PredefinedType,ObjectType,Pset_SpaceCommon.OccupancyType
+0,Background,,,,,
+1,Outdoor,IfcSpace,OUTDOOR,,OUTDOOR,OUTDOOR
+2,Wall,IfcWall,WALL,SOLIDWALL,,
+3,Kitchen,IfcSpace,KITCHEN,,KITCHEN,KITCHEN
+4,LivingRoom,IfcSpace,LIVING,,LIVING,LIVING
+5,Bedroom,IfcSpace,BEDROOM,,BEDROOM,SLEEPING
+6,Bath,IfcSpace,BATH,,BATH,SANITARY
+7,Entry,IfcSpace,ENTRY,,ENTRY,CIRCULATION
+8,Railing,IfcRailing,RAILING,HANDRAIL,,
+9,Storage,IfcSpace,STORAGE,,STORAGE,STORAGE
+10,Garage,IfcSpace,GARAGE,,GARAGE,PARKING
+11,Room,IfcSpace,ROOM,,ROOM,
+12,Empty,,,,,
+13,Window,IfcWindow,WINDOW,,,
+14,Door,IfcDoor,DOOR,,,
+15,Closet,IfcFurniture,CLOSET,,STORAGE,
+16,Appliance,IfcElectricAppliance,APPLIANCE,USERDEFINED,APPLIANCE,
+17,Toilet,IfcSanitaryTerminal,TOILET,TOILETPAN,TOILET,
+18,Sink,IfcSanitaryTerminal,SINK,SINK,SINK,
+19,SaunaBench,IfcFurniture,SAUNA_BENCH,SEATING,SEATING,
+20,Fireplace,IfcFireplace,FIREPLACE,USERDEFINED,FIREPLACE,
+21,Bathtub,IfcSanitaryTerminal,BATHTUB,BATHTUB,BATHTUB,
+22,Chimney,IfcChimney,CHIMNEY,USERDEFINED,CHIMNEY,
