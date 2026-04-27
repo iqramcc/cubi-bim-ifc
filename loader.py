@@ -116,5 +116,5 @@ def load_mapping(csv_path):
 
     return mapping
 
-if __name__ == "__main__":
-    load_mapping("mapping.csv")
+# if __name__ == "__main__":
+#     load_mapping("mapping.csv")
